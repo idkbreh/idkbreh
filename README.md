@@ -1,13 +1,14 @@
-### Swasdee Kub 🤔
+### Sawaddee Kub 🤔
 **I'm Developer from thailand**<br>
 *Language for develop ⚡*
-- *PHP* **|** *Node.js* **|** *Python* 
+- *PHP* **|** *Node.js* **|** *Python* **|** *C#*
 
 *What im doing right now 💬*
-- *Loklok api adapt* **|** *Some useful API🤔* **|** *Repo website for school ( free to use )* **|** *Improve my grammar Lmao*
+- *Learn how to manage cloud server* **|** *Some useful API🤔* **|** *Lnw168 Project for school* **|** *Improve my grammar Lmao*
 
 *What im used to do in the past 💬*
 - *Website for selection* **|** *API TruemoneyWallet (since its was blocked)*
+- *Website for election in school *
 
 *Contact*
 - *Discord* **:** **SIMP#2712**
