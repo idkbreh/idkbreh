@@ -12,7 +12,10 @@
 
 *Contact*
 - *Discord* **:** **SIMP#2712**
+- 
+## Some cool stat
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=idkbreh&theme=highcontrast)](https://git.io/streak-stats)
 <!--
 **idkbreh/idkbreh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
