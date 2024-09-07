@@ -1,5 +1,5 @@
 ### Sawaddee Kub 🤔
-**I'm Developer from thailand**<br>
+**I'm GAY **<br>
 *Language for develop ⚡*
 - *PHP* **|** *Node.js* **|** *Python* **|** *C#*
 
