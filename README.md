@@ -1,32 +1,21 @@
-### Sawaddee Kub 🤔
-**I'm GAY** <br>
-*Language for develop ⚡*
-- *PHP* **|** *Node.js* **|** *Python* **|** *C#*
+<h1 align="center">Hi 👋, I'm Patcharapol Rungsisakorn</h1>
+<h3 align="center">Currently study at Triamudomsuksanomklao High School</h3>
 
-*What im doing right now 💬*
-- *Learn how to manage cloud server* **|** *Some useful API🤔* **|** *Lnw168 Project for school* **|** *Improve my grammar Lmao*
 
-*What im used to do in the past 💬*
-- *Website for selection* **|** *API TruemoneyWallet (since its was blocked)*
-- *Website for election in school *
+```py
+class Profile:
+  def __init__ (self)
+    self.name = "patcharapol rungsisakorn 🧑‍💻"
+    self.highschool = "Triamudomsuksanomklao 👋"
+    self.birthdate = "25SEP06 📆"
+    self.goal = "MUICT 🚩"
+    self.language = "PHP/NODEJS/SWIFT/PYTHON 💻"
+  def Project(self,year="2024")
+    name = self.name
+    project = f'CodingSpacet / TRIAMDOD8 / ECOTRIP / ELECTION / BY {name}'
 
-*Contact*
-- *Discord* **:** **SIMP#2712**
-- 
-## Some cool stat
+  """ Notice me if i do something wrong 🥲 """
+```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=idkbreh&theme=highcontrast)](https://git.io/streak-stats)
-<!--
-**idkbreh/idkbreh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
