@@ -8,7 +8,7 @@ class Profile:
     self.name = "patcharapol rungsisakorn 🧑‍💻"
     self.highschool = "Triamudomsuksanomklao 👋"
     self.birthdate = "25SEP06 📆"
-    self.goal = "COMSCI KU"
+    self.goal = "MUICT"
     self.language = "PHP/NODEJS/SWIFT/PYTHON 💻"
   def Project(self,year="2024")
     name = self.name
