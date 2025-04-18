@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Patcharapol Rungsisakorn</h1>
-<h3 align="center">Currently study at Triamudomsuksanomklao High School</h3>
+<h3 align="center">Currently study  Mahidol university </h3>
 
 
 ```py
 class Profile:
   def __init__ (self)
     self.name = "patcharapol rungsisakorn 🧑‍💻"
-    self.highschool = "Triamudomsuksanomklao 👋"
+    self.university = "Mahidol U. 👋"
     self.birthdate = "25SEP06 📆"
-    self.goal = "MUICT"
+    self.career_path = "security consultant"
     self.language = "PHP/NODEJS/SWIFT/PYTHON 💻"
   def Project(self,year="2024")
     name = self.name
     project = f'CodingSpacet / TRIAMDOD8 / ECOTRIP / ELECTION / BY {name}'
 
-  """ Notice me if i do something wrong 🥲 """
+  """ interest in cybersecurity and pentesting """
 ```
 
 <h3 align="left">Languages and Tools:</h3>
